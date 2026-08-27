@@ -1,5 +1,5 @@
 **Gu-sudo-pixel**
-<h1 data-importer="text" align="center">Olá! seja muito bem-vindo(a) ao perfil</h1>
+<h1 data-importer="text" align="center">Olá! seja muito bem-vindo(a) ao meu perfil</h1>
 
 ###
 
