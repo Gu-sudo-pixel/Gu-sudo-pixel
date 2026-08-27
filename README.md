@@ -1,5 +1,5 @@
 **Gu-sudo-pixel**
-<h1 data-importer="text" align="left">Opa! tudo bem?</h1>
+<h1 data-importer="text" align="left">Seja muito bem-vindo(a) ao meu perfil</h1>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Redes</h2>
+<h2 data-importer="text" align="center"></h2>
 
 ###
 
